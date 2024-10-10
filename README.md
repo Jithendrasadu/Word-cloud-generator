@@ -1,7 +1,5 @@
 # Word-cloud-generator
 
-## Gapminder R Shiny App
-
 ### Description
 This R Shiny project visualizes the relationship between GDP and life expectancy using a scatterplot and allows users to explore data by continents. It also includes a word cloud generator with custom file uploads, text input capabilities, and **interactive tooltips** that display word frequencies when hovering over the words.
 
